@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+streamlit.log
+nohup.out
+.venv/
+venv/
+*.html
+.streamlit/secrets.toml
